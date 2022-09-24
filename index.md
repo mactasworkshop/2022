@@ -60,12 +60,9 @@ All accepted papers will be presented in a spotlight talk as well as a poster. O
 | 11:15 | Panel discussion 1 | **_Theme: Co-Creation of TAS _** |
 | 12:00 | _Lunch Break_ |
 | 13:40 | Organisers | Survey results / Key Questions for Focus groups |
-| 14:00 | Focus groups | **_Small working groups focusing on different aspects of TAS including: 
-Design,  Engineering, Operation, and Regulation
-_** |
+| 14:00 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** |
 | 15:00 | _Coffee break & Poster session_  |
 | 15:30 | **Subramanian Ramamoorthy** (Univ. of Edinburgh) | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** |
-| 15:50 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance
-_** |
+| 15:50 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance_** |
 | 16:40 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** |
 | 17:00 | _End of Workshop_ |
