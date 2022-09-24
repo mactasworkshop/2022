@@ -44,7 +44,7 @@ Trust is a multi-dimensional issue and is conceptualised differently by a range 
 - Transparency of AI systems
 - System of humans
 
-All accepted papers will be presented in a spotlight talk as well as a poster. Our international Programme Committee will review all submissions using EasyChair and will also select a paper for the Best TAS Paper Award (£250). The workshop participants will vote for a paper to receive the Best TAS Poster Award (£250). All accepted contributions will be also invited to submit an extended version to our planned Special Issue on TAS.    
+All accepted papers will be presented in a spotlight talk as well as a poster. Our international Programme Committee will review all submissions using EasyChair and will also select a paper for the **_Best TAS Paper Award_** (£250). The workshop participants will vote for a paper to receive the **_Best TAS Poster Award_** (£250). All accepted contributions will be also invited to submit an extended version to our planned **_Special Issue on TAS_**.    
 
 ***
 
