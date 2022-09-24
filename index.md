@@ -28,7 +28,7 @@ Finally, a **_Special Issue on TAS_** in a journal (e.g. RA-L) will capture and 
 
 * * *
 
-# Calls for Papers
+# Call for Papers
 
 
 Trust is a multi-dimensional issue and is conceptualised differently by a range of disciplines. Hence we invite novel contributions (short and long papers with 2-4 or 6 pages respectively) as well as already published papers covering a wide set of topics that will be attractive to both technical and non-technical audiences:
@@ -48,7 +48,7 @@ All accepted papers will be presented in a spotlight talk as well as a poster. O
 
 ***
 
-# Tentative Schedule
+# Schedule
 
 | Time  | Speaker          | Title |
 |:------|:------------------|:------|
