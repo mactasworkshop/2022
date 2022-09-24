@@ -53,11 +53,11 @@ All accepted papers will be presented in a spotlight talk as well as a poster. O
 | Time  | Speaker          | Title |
 |:------|:------------------|:------|
 | 09:00 | Organisers | **_Welcome note & TAS Overview_**  |
-| 09:20 | **Kate Devlin** (King's College London) |  |
+| 09:20 | **Kate Devlin** (King's College London) | **_Our friends, the machines?_** |
 | 09:40 | **Luis Sentis** (Univ. of Texas) | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** |
 | 10:00 | _Spotlight talks_ | |
 | 10:30 | _Coffee break & Poster session_ |
-| 11:15 | Panel discussion 1 | **_Theme: Co-Creation of TAS _** |
+| 11:15 | Panel discussion 1 | **_Theme: Co-Creation of TAS_** |
 | 12:00 | _Lunch Break_ |
 | 13:40 | Organisers | Survey results / Key Questions for Focus groups |
 | 14:00 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** |
