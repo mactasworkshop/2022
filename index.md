@@ -4,7 +4,7 @@ layout: default
 
 a
 
-# Aboutn
+# About
 
 Our **_ICRA 2023 Workshop on Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems_** will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). In particular, as ICRA 2023 will be co-located with AAMAS (https://aamas2023.soton.ac.uk/), we will organise a workshop which will be open and welcoming to researchers from the autonomous agents and multi-agent systems community.   
 
