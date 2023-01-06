@@ -32,22 +32,44 @@ Finally, a **_Special Issue on TAS_** in a journal (e.g. RA-L) will capture and 
 
 # Call for Papers
 
+The workshop on Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems (MACTAS) will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). Defining autonomous systems as systems involving software applications, machines, and people, which are able to take actions with little or no human supervision, the workshop will explore different definitions of TAS and individual aspects of trust from a multidisciplinary perspective. We are interested in several factors contributing to the trustworthiness of autonomous systems, which include but not limited to the following: robustness and resilience in dynamic and uncertain environments; the assurance of the design and operation of autonomous systems through verification and validation processes; the confidence the systems inspire as they evolve their functionality, their explainability, accountability, and understandability to a diverse set of users; defences against attacks on the systems, users, and the environment they are deployed in; governance and the regulation of their design and operation; and the consideration of human values and ethics in their development and use.
 
-Trust is a multi-dimensional issue and is conceptualised differently by a range of disciplines. Hence we invite novel contributions (short and long papers with 2-4 or 6 pages respectively) as well as already published papers covering a wide set of topics that will be attractive to both technical and non-technical audiences:
+Trust is a multi-dimensional issue and is conceptualised differently by a range of disciplines. Hence, we invite novel contributions (short and regular papers with 2-4 and 6 pages respectively) as well as already published journal/conference papers covering a wide set of topics that will be attractive to both technical and non-technical audiences:
 
-- Methodologies to certify autonomous systems
-- Public perception of autonomous systems
-- Explainable and Interpretable AI solutions for real-world applications
-- Safety and security of autonomous systems
-- Trustworthy and resilient human-machine teaming
-- Regulation
-- Notions of trust in autonomous systems
-- Responsible Research and Innovation for trustworthy AI and autonomous systems
-- Transparency of AI systems
-- System of humans
+ - Methodologies to certify autonomous systems
+ - Public perception of autonomous systems
+ - Explainable and Interpretable AI solutions for real-world applications
+ - Safety and security of autonomous systems
+ - Trustworthy and resilient human-machine teaming
+ - Regulation
+ - Notions of trust in autonomous systems
+ - Responsible Research and Innovation for trustworthy AI and autonomous systems
+ - Transparency of AI systems
+ - System of humans
 
-All accepted papers will be presented in a spotlight talk as well as a poster. Our international Programme Committee will review all submissions using EasyChair and will also select a paper for the **_Best TAS Paper Award_** (£250). The workshop participants will vote for a paper to receive the **_Best TAS Poster Award_** (£250). All accepted contributions will be also invited to submit an extended version to our planned **_Special Issue on TAS_**.    
+## Submission Types
 
+ - Short Paper 2-4 pages excluding references)
+ - Regular Paper (6 pages excluding references)
+ - Published papers (to be presented at the workshop)
+
+Please use the standard ICRA template when submitting a novel contribution. 
+All accepted papers will be presented in a spotlight talk as well as a poster. Additionally, all accepted contributions will be also invited to submit an extended version to our planned Special Issue on TAS (TBD). 
+
+## Best Paper / Poster Awards
+
+ - Best TAS Paper Award
+ - Best TAS Poster Award  
+
+Our international Programme Committee will review all submissions using EasyChair and will also select a paper for the **Best TAS Paper Award (£250)**. The workshop participants will vote for a paper to receive the **Best TAS Poster Award (£250)**.    
+
+## Important dates:
+
+ - Paper submission: 31st January, 2023 (AOE)
+ - Acceptance notification: 13th March, 2023
+ - Camera-ready: 1st April, 2023
+ - Workshop date (TBD): 29-30 May, 2023
+ 
 ***
 
 # Schedule
