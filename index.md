@@ -77,9 +77,36 @@ Lars Kunze | Univ. of Oxford | Email: lars@robots.ox.ac.uk <br /> URL: https://o
 Sinem Getir Yaman | Univ. of York | Email: sinem.getir.yaman@york.ac.uk <br /> URL: https://sinemgetir.github.io |
 Mohammad Naiseh | Univ. of Southampton | Email: m.naiseh@soton.ac.uk <br /> URL:https://www.southampton.ac.uk/people/5yq6nf/doctor-mohammad-naiseh |
 Ayse Kucukyilmaz | Univ. of Nottingham | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: http://www.cs.nott.ac.uk/~pszak1/ |
-Hugo Araujo | King’s College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: https://kclpure.kcl.ac.uk/portal/hugo.araujo.html |
+Hugo Araujo | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: https://kclpure.kcl.ac.uk/portal/hugo.araujo.html |
 Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: https://www.research.manchester.ac.uk/portal/baris.serhan.html |
 Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu |
+
+
+# Programme Committee (Potential)
+
+
+| Name | Affiliation | Contact details
+|:------|:------------------|:------|
+Caitlin Bentley | King's College London | caitlin.bentley@kcl.ac.uk | 
+Elena Nichele  | University of Nottingham  | Elena.Nichele@nottingham.ac.uk | 
+Justyna Lisinska | King's College London | justyna.lisinska@kcl.ac.uk | 
+Jennifer Williams | University of Southampton | J.Williams@soton.ac.uk | 
+Liz Dowthwaite | University of Nottingham | Liz.Dowthwaite@nottingham.ac.uk | 
+Elnaz Shafipour | University of Southampton | esy1v21@soton.ac.uk | 
+Mohammad Divband Soorati | University of Southampton | m.soorati@soton.ac.uk | 
+Edmond Awad | University of Exeter | E.Awad@exeter.ac.uk | 
+Kaite Parnell | University of Southampton | K.Parnell@soton.ac.uk | 
+David Bossens | University of Southampton | D.M.Bossens@soton.ac.uk | 
+Benedicte Legastelois | King's College London | benedicte.legastelois@kcl.ac.uk
+Xin Du | University of Edinburgh | 
+Tayyaba Azim | University of Southampton | ta7g21@soton.ac.uk | 
+Andrew Sogokon | Lancaster University | a.sogokon@lancaster.ac.uk | 
+Yang Lu | Lancaster University  | y.lu44@lancaster.ac.uk | 
+Wang Miao | University of Plymouth | wang.miao@plymouth.ac.uk | 
+Haozhe Wang | University of Exeter | h.wang3@exeter.ac.uk | 
+Rui Jin | University of Exeter | rj390@exeter.ac.uk | 
+
+
 
 
 
