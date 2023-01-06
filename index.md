@@ -68,3 +68,20 @@ All accepted papers will be presented in a spotlight talk as well as a poster. O
 | 15:50 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance_** |
 | 16:40 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** |
 | 17:00 | _End of Workshop_ |
+
+# Organising Committee
+
+| Name | Affiliation | Contact details
+|:------|:------------------|:------|
+Lars Kunze | Univ. of Oxford | Email: lars@robots.ox.ac.uk URL: https://ori.ox.ac.uk/~lars |
+Sinem Getir Yaman | Univ. of York | Email: sinem.getir.yaman@york.ac.uk URL: https://sinemgetir.github.io |
+Mohammad Naiseh | Univ. of Southampton | Email: m.naiseh@soton.ac.uk URL:https://www.southampton.ac.uk/people/5yq6nf/doctor-mohammad-naiseh |
+Ayse Kucukyilmaz | Univ. of Nottingham | Email: ayse.kucukyilmaz@nottingham.ac.uk URL: http://www.cs.nott.ac.uk/~pszak1/ |
+Hugo Araujo | King’s College London | Email: hugo.araujo@kcl.ac.uk  URL: https://kclpure.kcl.ac.uk/portal/hugo.araujo.html |
+Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk URL:https://www.research.manchester.ac.uk/portal/baris.serhan.html |
+Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk URL:https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu |
+
+
+
+
+
