@@ -29,6 +29,7 @@ An **_online survey on TAS_** (conducted before the event) will complement the w
 Finally, a **_Special Issue on TAS_** in a journal (e.g. RA-L) will capture and disseminate the workshop outcomes including the results of the survey, the multidisciplinary taxonomy, and extended versions of the contributed papers. Thereby the workshop outcomes are preserved beyond the event. 
 
 * * *
+
 <a id="cfp" />
 # Call for Papers
 
@@ -73,8 +74,9 @@ Our international Programme Committee will review all submissions using EasyChai
  
 ***
 
-# Schedule
 <a id="schedule" />
+# Schedule
+
 | Time  | Speaker          | Title |
 |:------|:------------------|:------|
 | 09:00 | Organisers | **_Welcome note & TAS Overview_**  |
@@ -94,8 +96,10 @@ Our international Programme Committee will review all submissions using EasyChai
 
 ***
 
-# Organising Committee
 <a id="organising" />
+# Organising Committee
+
+
 | Name | Affiliation | Contact details
 |:------|:------------------|:------|
 Lars Kunze | Univ. of Oxford | Email: lars@robots.ox.ac.uk <br /> URL: https://ori.ox.ac.uk/~lars |
@@ -107,6 +111,7 @@ Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br />
 Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu |
 
 ***
+
 <a id="programme" />
 # Programme Committee (Potential)
 
