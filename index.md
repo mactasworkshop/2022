@@ -30,7 +30,7 @@ Finally, a **_Special Issue on TAS_** in a journal (e.g. RA-L) will capture and 
 
 * * *
 
-# Call for Papers
+# Call for Papers <a id="cfp" />
 
 The workshop on **Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems (MACTAS)** will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). Defining autonomous systems as systems involving software applications, machines, and people, which are able to take actions with little or no human supervision, the workshop will explore different definitions of TAS and individual aspects of trust from a multidisciplinary perspective. We are interested in several factors contributing to the trustworthiness of autonomous systems, which include but not limited to the following: robustness and resilience in dynamic and uncertain environments; the assurance of the design and operation of autonomous systems through verification and validation processes; the confidence the systems inspire as they evolve their functionality, their explainability, accountability, and understandability to a diverse set of users; defences against attacks on the systems, users, and the environment they are deployed in; governance and the regulation of their design and operation; and the consideration of human values and ethics in their development and use.
 
