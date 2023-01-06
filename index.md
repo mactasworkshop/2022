@@ -92,6 +92,8 @@ Our international Programme Committee will review all submissions using EasyChai
 | 16:40 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** |
 | 17:00 | _End of Workshop_ |
 
+***
+
 # Organising Committee
 
 | Name | Affiliation | Contact details
@@ -104,6 +106,7 @@ Hugo Araujo | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: h
 Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: https://www.research.manchester.ac.uk/portal/baris.serhan.html |
 Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu |
 
+***
 
 # Programme Committee (Potential)
 
