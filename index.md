@@ -48,6 +48,12 @@ Trust is a multi-dimensional issue and is conceptualised differently by a range 
  - Transparency of AI systems
  - System of humans
 
+## Submission Link
+
+Please, use the link below to submit to MACTAS 2023.
+
+https://easychair.org/my/conference?conf=mactas2023
+
 ## Submission Types
 
  - Short Paper (2-4 pages excluding references)
