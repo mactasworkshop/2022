@@ -122,8 +122,8 @@ Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: [https:
 # Programme Committee (Potential)
 
 
-| Name | Affiliation | Contact details
-|:------|:------------------|:------|
+| Name | Affiliation |
+|:------|:------------------|
 Caitlin Bentley | King's College London |
 Elena Nichele  | University of Nottingham  |
 Justyna Lisinska | King's College London |
