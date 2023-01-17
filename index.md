@@ -73,7 +73,7 @@ Our international Programme Committee will review all submissions using EasyChai
 
 ## Important dates:
 
- - Paper submission: 31st January, 2023 (AOE)
+ - Paper submission: 17th February, 2023 (AOE)
  - Acceptance notification: 13th March, 2023
  - Camera-ready: 1st April, 2023
  - Workshop date (TBD): 29-30 May, 2023
@@ -108,13 +108,13 @@ Our international Programme Committee will review all submissions using EasyChai
 
 | Name | Affiliation | Contact details
 |:------|:------------------|:------|
-Lars Kunze | Univ. of Oxford | Email: lars@robots.ox.ac.uk <br /> URL: https://ori.ox.ac.uk/~lars |
-Sinem Getir Yaman | Univ. of York | Email: sinem.getir.yaman@york.ac.uk <br /> URL: https://sinemgetir.github.io |
-Mohammad Naiseh | Univ. of Southampton | Email: m.naiseh@soton.ac.uk <br /> URL:https://www.southampton.ac.uk/people/5yq6nf/doctor-mohammad-naiseh |
-Ayse Kucukyilmaz | Univ. of Nottingham | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: http://www.cs.nott.ac.uk/~pszak1/ |
-Hugo Araujo | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: https://kclpure.kcl.ac.uk/portal/hugo.araujo.html |
-Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: https://www.research.manchester.ac.uk/portal/baris.serhan.html |
-Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu |
+Lars Kunze | Univ. of Oxford | Email: lars@robots.ox.ac.uk <br /> URL: [https://ori.ox.ac.uk/~lars](https://ori.ox.ac.uk/~lars) |
+Sinem Getir Yaman | Univ. of York | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io) |
+Mohammad Naiseh | Univ. of Southampton | Email: m.naiseh@soton.ac.uk <br /> URL: [https://www.southampton.ac.uk/people/5yq6nf/doctor-mohammad-naiseh](https://www.southampton.ac.uk/people/5yq6nf/doctor-mohammad-naiseh) |
+Ayse Kucukyilmaz | Univ. of Nottingham | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/) |
+Hugo Araujo | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: [https://kclpure.kcl.ac.uk/portal/hugo.araujo.html](https://kclpure.kcl.ac.uk/portal/hugo.araujo.html) |
+Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: [https://www.research.manchester.ac.uk/portal/baris.serhan.html](https://www.research.manchester.ac.uk/portal/baris.serhan.html) |
+Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: [https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu](https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu) |
 
 ***
 
@@ -124,24 +124,24 @@ Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: https:/
 
 | Name | Affiliation | Contact details
 |:------|:------------------|:------|
-Caitlin Bentley | King's College London | caitlin.bentley@kcl.ac.uk | 
-Elena Nichele  | University of Nottingham  | Elena.Nichele@nottingham.ac.uk | 
-Justyna Lisinska | King's College London | justyna.lisinska@kcl.ac.uk | 
-Jennifer Williams | University of Southampton | J.Williams@soton.ac.uk | 
-Liz Dowthwaite | University of Nottingham | Liz.Dowthwaite@nottingham.ac.uk | 
-Elnaz Shafipour | University of Southampton | esy1v21@soton.ac.uk | 
-Mohammad Divband Soorati | University of Southampton | m.soorati@soton.ac.uk | 
-Edmond Awad | University of Exeter | E.Awad@exeter.ac.uk | 
-Kaite Parnell | University of Southampton | K.Parnell@soton.ac.uk | 
-David Bossens | University of Southampton | D.M.Bossens@soton.ac.uk | 
-Benedicte Legastelois | King's College London | benedicte.legastelois@kcl.ac.uk
+Caitlin Bentley | King's College London |
+Elena Nichele  | University of Nottingham  |
+Justyna Lisinska | King's College London |
+Jennifer Williams | University of Southampton |
+Liz Dowthwaite | University of Nottingham |
+Elnaz Shafipour | University of Southampton |
+Mohammad Divband Soorati | University of Southampton |
+Edmond Awad | University of Exeter |
+Kaite Parnell | University of Southampton |
+David Bossens | University of Southampton |
+Benedicte Legastelois | King's College London |
 Xin Du | University of Edinburgh | 
-Tayyaba Azim | University of Southampton | ta7g21@soton.ac.uk | 
-Andrew Sogokon | Lancaster University | a.sogokon@lancaster.ac.uk | 
-Yang Lu | Lancaster University  | y.lu44@lancaster.ac.uk | 
-Wang Miao | University of Plymouth | wang.miao@plymouth.ac.uk | 
-Haozhe Wang | University of Exeter | h.wang3@exeter.ac.uk | 
-Rui Jin | University of Exeter | rj390@exeter.ac.uk | 
+Tayyaba Azim | University of Southampton | 
+Andrew Sogokon | Lancaster University |
+Yang Lu | Lancaster University  |
+Wang Miao | University of Plymouth |
+Haozhe Wang | University of Exeter |
+Rui Jin | University of Exeter | 
 
 
 
