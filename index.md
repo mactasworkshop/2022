@@ -74,8 +74,8 @@ Our international Programme Committee will review all submissions using EasyChai
 ## Important dates:
 
  - Paper submission: 15th March, 2023 (AOE)
- - Acceptance notification: 26th April, 2023
- - Camera-ready: 10th May, 2023
+ - Acceptance notification: 26th April, 2023 (AOE)
+ - Camera-ready: 10th May, 2023 (AOE)
  - Workshop date: 29 May, 2023
  
 ***
