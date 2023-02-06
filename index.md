@@ -4,6 +4,9 @@ layout: default
 
 ***
 
+![Book logo](/docs/assets/images/ICRA-Main-Logo.png)
+![Book logo](/docs/assets/images/tas_logo.png)
+
 # About
 
 Our joint **_ICRA 2023 Workshop on Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems_** will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). We will organise a workshop which will be open and welcoming to researchers from the autonomous agents and multi-agent systems community.   
