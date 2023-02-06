@@ -4,7 +4,8 @@ layout: default
 
 ***
 
-![icra](/docs/assets/images/ICRA-Main-Logo.png){: width="250" } ![tas](/docs/assets/images/tas_logo.png){: width="250" }
+![icra](/docs/assets/images/ICRA-Main-Logo.png){: height="250" } 
+![tas](/docs/assets/images/tas_logo.png){: height="250" }
 
 # About
 
