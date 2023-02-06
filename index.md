@@ -4,8 +4,8 @@ layout: default
 
 ***
 
-![Book logo](/docs/assets/images/ICRA-Main-Logo.png)
-![Book logo](/docs/assets/images/tas_logo.png)
+<!--- ![Book logo](/docs/assets/images/ICRA-Main-Logo.png)
+![Book logo](/docs/assets/images/tas_logo.png)--->
 
 # About
 
