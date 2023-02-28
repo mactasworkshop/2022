@@ -112,7 +112,7 @@ Our international Programme Committee will review all submissions using EasyChai
 |:------|:------------------|:------|
 Lars Kunze | Univ. of Oxford | Email: lars@robots.ox.ac.uk <br /> URL: [https://ori.ox.ac.uk/~lars](https://ori.ox.ac.uk/~lars) |
 Sinem Getir Yaman | Univ. of York | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io) |
-Mohammad Naiseh | Univ. of Southampton | Email: m.naiseh@soton.ac.uk <br /> URL: [https://www.southampton.ac.uk/people/5yq6nf/doctor-mohammad-naiseh](https://www.southampton.ac.uk/people/5yq6nf/doctor-mohammad-naiseh) |
+Mohammad Naiseh | Univ. of Bournemouth | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh) |
 Ayse Kucukyilmaz | Univ. of Nottingham | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/) |
 Hugo Araujo | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: [https://kclpure.kcl.ac.uk/portal/hugo.araujo.html](https://kclpure.kcl.ac.uk/portal/hugo.araujo.html) |
 Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: [https://www.research.manchester.ac.uk/portal/baris.serhan.html](https://www.research.manchester.ac.uk/portal/baris.serhan.html) |
