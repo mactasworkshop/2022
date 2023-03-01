@@ -64,7 +64,7 @@ Please, use the link below to submit to MACTAS 2023.
 
 Please use the standard ICRA double column template [(available here)](http://ras.papercept.net/conferences/support/support.php) when submitting a novel contribution. 
 
-All accepted papers will be presented in a spotlight talk as well as a poster. Additionally, all accepted contributions will be also invited to submit an extended version to our planned **Special Issue on TAS (TBD)**. 
+All accepted papers will be presented in a spotlight talk as well as a poster. Additionally, all accepted contributions will be also invited to submit an extended version to our planned **Special Issue on TAS** in the [Journal of Responsible Technology](https://www.sciencedirect.com/journal/journal-of-responsible-technology) (more details TBA). 
 
 ## Best Paper / Poster Awards
 
