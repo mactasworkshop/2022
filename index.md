@@ -28,7 +28,7 @@ A diverse group of invited speakers and panellists will present and discuss fund
 
 An **_online survey on TAS_** (conducted before the event) will complement the workshop. Results of the survey will be presented during the workshop and will guide the work of focus groups during the day. **_Focus groups will work towards a multidisciplinary taxonomy on various aspects and the emerging challenges for TAS_** which will be summarised in a workshop report and/or joint white paper. A particular focus of the working groups will be on the **_design, engineering, operation and regulation of TAS_**.
 
-Finally, a **_Special Issue on TAS_** in a journal (e.g. RA-L) will capture and disseminate the workshop outcomes including the results of the survey, the multidisciplinary taxonomy, and extended versions of the contributed papers. Thereby the workshop outcomes are preserved beyond the event. 
+Finally, a **_Special Issue on TAS_** in the [Journal of Responsible Technology](https://www.sciencedirect.com/journal/journal-of-responsible-technology) will capture and disseminate the workshop outcomes including the results of the survey, the multidisciplinary taxonomy, and extended versions of the contributed papers. Thereby the workshop outcomes are preserved beyond the event. 
 
 * * *
 
