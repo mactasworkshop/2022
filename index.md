@@ -126,7 +126,6 @@ Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: [https:
 
 | Name | Affiliation |
 |:------|:------------------|
-
 Mohammad Naiseh | Bournemouth University |
 Edmond Awad | University of Exeter |
 Katie Parnell | University of Southampton |
