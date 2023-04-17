@@ -121,30 +121,30 @@ Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: [https:
 ***
 
 <a id="programme" />
-# Programme Committee (Potential)
+# Programme Committee
 
 
 | Name | Affiliation |
 |:------|:------------------|
-Caitlin Bentley | King's College London |
-Elena Nichele  | University of Nottingham  |
-Justyna Lisinska | King's College London |
-Jennifer Williams | University of Southampton |
+
+Mohammad Naiseh | Bournemouth University |
+Edmond Awad | University of Exeter |
+Katie Parnell | University of Southampton |
+Andrew Sogokon | Carnegie Mellon University |
+David Bossens | University of Southampton |
+Lu Yang | Lancaster University |
 Liz Dowthwaite | University of Nottingham |
 Elnaz Shafipour | University of Southampton |
-Mohammad Divband Soorati | University of Southampton |
-Edmond Awad | University of Exeter |
-Kaite Parnell | University of Southampton |
-David Bossens | University of Southampton |
-Benedicte Legastelois | King's College London |
-Xin Du | University of Edinburgh | 
-Tayyaba Azim | University of Southampton | 
-Andrew Sogokon | Lancaster University |
-Yang Lu | Lancaster University  |
-Wang Miao | University of Plymouth |
-Haozhe Wang | University of Exeter |
-Rui Jin | University of Exeter | 
+Caitlin Bentley | King's College London |
+Geylani Kardas | Ege University International Computer Institute |
+Jennifer Williams | University of Southampton |
+Tayyaba Azim | University of southampton |
+Auste Simkute | University of Edinburgh |
+Alan Chamberlain | University of Nottingham |
+Justyna Lisinska | King's College London |
 Lina Marsso | University of Toronto |
+
+
 
 
 
