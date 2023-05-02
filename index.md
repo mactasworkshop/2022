@@ -89,18 +89,18 @@ Our international Programme Committee will review all submissions using EasyChai
 |:------|:------------------|:------|
 | 09:00 | Organisers | **_Welcome note & TAS Overview_**  |
 | 09:20 | **Kate Devlin** (King's College London) | **_Our friends, the machines?_** |
-| 09:40 | **Luis Sentis** (Univ. of Texas) | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** |
-| 10:00 | _Spotlight talks_ | |
+| 09:50 | _Spotlight talks_ | |
 | 10:30 | _Coffee break & Poster session_ |
-| 11:15 | Panel discussion 1 | **_Theme: Co-Creation of TAS_** |
-| 12:00 | _Lunch Break_ |
-| 13:40 | Organisers | Survey results / Key Questions for Focus groups |
-| 14:00 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** |
-| 15:00 | _Coffee break & Poster session_  |
-| 15:30 | **Subramanian Ramamoorthy** (Univ. of Edinburgh) | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** |
-| 15:50 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance_** |
-| 16:40 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** |
-| 17:00 | _End of Workshop_ |
+| 11:15 | **Luis Sentis** (Univ. of Texas) | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** |
+| 11:45 | Panel discussion 1 | **_Theme: Co-Creation of TAS_** |
+| 12:30 | _Lunch Break_ |
+| 14:00 | Organisers | Survey results / Key Questions for Focus groups |
+| 14:20 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** |
+| 15:30 | _Coffee break & Poster session_  |
+| 16:00 | **Subramanian Ramamoorthy** (Univ. of Edinburgh) | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** |
+| 16:30 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance_** |
+| 17:15 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** |
+| 17:30 | _End of Workshop_ |
 
 ***
 
