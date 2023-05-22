@@ -101,7 +101,7 @@ Our international Programme Committee will review all submissions using EasyChai
 | 16:30 | **Luis Sentis** (Univ. of Texas) | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** |
 | 17:00 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance_** |
 | 17:45 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** |
-| 18:00 | _End of Workshop_ |
+| 18:15 | _End of Workshop_ |
 
 ***
 
