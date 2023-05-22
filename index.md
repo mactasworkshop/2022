@@ -110,23 +110,23 @@ Our international Programme Committee will review all submissions using EasyChai
 <a id="schedule" />
 # Schedule
 
-| Time  | Speaker          | Title |
-|:------|:------------------|:------|
-| 09:00 | Organisers | **_Welcome note & TAS Overview_**  |
-| 09:20 | **Kate Devlin** (King's College London) | **_Our friends, the machines?_** |
-| 09:50 | _Spotlight talks_ | Contributed papers / Poster Teaser Session |
-| 10:30 | _Coffee break & Poster session_ |
-| 11:15 | TBC | **_TBC_** |
-| 11:45 | Panel discussion 1 | **_Theme: Co-Creation of TAS_** |
-| 12:30 | _Lunch Break_ |
-| 14:00 | Organisers | Survey results / Key Questions for Focus groups |
-| 14:20 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** |
-| 15:30 | _Coffee break & Poster session_  |
-| 16:00 | **Subramanian Ramamoorthy** (Univ. of Edinburgh) | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** |
-| 16:30 | **Luis Sentis** (Univ. of Texas) | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** |
-| 17:00 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance_** |
-| 17:45 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** |
-| 18:15 | _End of Workshop_ |
+| Time  | Speaker          | Title | Session Chair |
+|:------|:------------------|:------|:------|
+| 09:00 | Organisers | **_Welcome note & TAS Overview_**  | Lars / Sinem |
+| 09:20 | **Kate Devlin** (King's College London) | **_Our friends, the machines?_** | Lars / Sinem |
+| 09:50 | _Spotlight talks_ | Contributed papers / Poster Teaser Session | Mo / Zhengxin |
+| 10:30 | _Coffee break & Poster session_ | Baris / Hugo |
+| 11:15 | TBC | **_TBC_** | Baris / Hugo  |
+| 11:45 | Panel discussion 1 | **_Theme: Co-Creation of TAS_** | Lars / Sinem |
+| 12:30 | _Lunch Break_ |  |
+| 14:00 | Organisers | Survey results / Key Questions for Focus groups | Ayse / Sinem |
+| 14:20 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** | Ayse / Sinem |
+| 15:30 | _Coffee break & Poster session_  | Baris / Hugo |
+| 16:00 | **Subramanian Ramamoorthy** (Univ. of Edinburgh) | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** | Mo / Zhengxin |
+| 16:30 | **Luis Sentis** (Univ. of Texas) | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** | Mo / Zhengxin |
+| 17:00 | Panel Discussion 2 | **_Theme: TAS in our Society - Testing, Operation & Governance_** | Ayse / Sinem |
+| 17:45 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** | |
+| 18:15 | _End of Workshop_ |  |
 
 ***
 
