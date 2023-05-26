@@ -85,25 +85,25 @@ Our international Programme Committee will review all submissions using EasyChai
 <a id="accepted" />
 # Accepted Papers
 
- **(1)** Dario Mantegazza, Alessandro Giusti, Luca Gambardella and Jérôme Guzzi. **_"An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots."_**
+ 1. Dario Mantegazza, Alessandro Giusti, Luca Gambardella and Jérôme Guzzi. **_"An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots."_**
 
- **(2)** Gowri Pradeep, Prokar Dasgupta, Sylvaine Tuncer, and Paul Luff. **_"Trust and Trustworthiness in Robotic Surgery: A Narrative Review."_**
+ 2. Gowri Pradeep, Prokar Dasgupta, Sylvaine Tuncer, and Paul Luff. **_"Trust and Trustworthiness in Robotic Surgery: A Narrative Review."_**
 
- **(3)** Matthew Cavorsi, Ninad Jadhav, David Saldaña, and Stephanie Gil. **_"Adaptive Malicious Robot Detection in Dynamic Topologies."_**
+ 3. Matthew Cavorsi, Ninad Jadhav, David Saldaña, and Stephanie Gil. **_"Adaptive Malicious Robot Detection in Dynamic Topologies."_**
 
- **(4)** David Cameron, Emily Collins, Stevienna de Saille, and James Law. **_"The Social Triad model of Human-Robot Interaction."_**
+ 4. David Cameron, Emily Collins, Stevienna de Saille, and James Law. **_"The Social Triad model of Human-Robot Interaction."_**
 
- **(5)** Yiwei Lyu, Wenhao Luo, and John Dolan. **_"Risk-aware Safe Control for Decentralized Multi-agent Systems via Dynamic Responsibility Allocation."_**
+ 5. Yiwei Lyu, Wenhao Luo, and John Dolan. **_"Risk-aware Safe Control for Decentralized Multi-agent Systems via Dynamic Responsibility Allocation."_**
 
- **(6)** Marko Thiel, Justin Ziegenbein, Noel Blunder, Johannes Hinckeldeyn, and Jochen Kreutzfeldt. **_"Mobile Robots on Sidewalks: Legal Context and Resulting Requirements for Autonomous Last-Mile Delivery in Germany."_**
+ 6. Marko Thiel, Justin Ziegenbein, Noel Blunder, Johannes Hinckeldeyn, and Jochen Kreutzfeldt. **_"Mobile Robots on Sidewalks: Legal Context and Resulting Requirements for Autonomous Last-Mile Delivery in Germany."_**
 
- **(7)** Matthew Story, Harriet Cameron, Gisela Reyes Cruz, and Maria Jose Galvez Trigo. **_”I want it to be happy instead”: co-designing robotic systems for cultural experiences with children that are autistic and/or have Learning Disabilities."_**
+ 7. Matthew Story, Harriet Cameron, Gisela Reyes Cruz, and Maria Jose Galvez Trigo. **_”I want it to be happy instead”: co-designing robotic systems for cultural experiences with children that are autistic and/or have Learning Disabilities."_**
 
- **(8)** Adam Taras, Niko Suenderhauf, Peter Corke, and Donald Dansereau. **_"The Need for Inherently Privacy-Preserving Vision in Trustworthy Autonomous Systems."_**
+ 8. Adam Taras, Niko Suenderhauf, Peter Corke, and Donald Dansereau. **_"The Need for Inherently Privacy-Preserving Vision in Trustworthy Autonomous Systems."_**
 
- **(9)** Aleksandra Landowska, Pablo Lopez-Custodio, Khairidine Benali, Liangju Min, Sue Cobb, Horia Alexandru Maior, Ayse Kucukyilmaz, and Max L. Wilson. **_"Mental Workload Estimation using fNIRS in Robotic Teleoperation."_**
+ 9. Aleksandra Landowska, Pablo Lopez-Custodio, Khairidine Benali, Liangju Min, Sue Cobb, Horia Alexandru Maior, Ayse Kucukyilmaz, and Max L. Wilson. **_"Mental Workload Estimation using fNIRS in Robotic Teleoperation."_**
 
- **(10)** Sarah Mathew. **_"Towards Building Cross-Domain Trust in an Educational Chatbot."_**
+ 10. Sarah Mathew. **_"Towards Building Cross-Domain Trust in an Educational Chatbot."_**
 
 ***
 
