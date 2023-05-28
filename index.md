@@ -103,8 +103,6 @@ Our international Programme Committee will review all submissions using EasyChai
 
  9. Aleksandra Landowska, Pablo Lopez-Custodio, Khairidine Benali, Liangju Min, Sue Cobb, Horia Alexandru Maior, Ayse Kucukyilmaz, and Max L. Wilson. **_"Mental Workload Estimation using fNIRS in Robotic Teleoperation."_**
 
- 10. Sarah Mathew. **_"Towards Building Cross-Domain Trust in an Educational Chatbot."_**
-
 ***
 
 <a id="schedule" />
@@ -116,7 +114,7 @@ Our international Programme Committee will review all submissions using EasyChai
 | 09:20 | [**Kate Devlin**](https://www.kcl.ac.uk/people/kate-devlin) (King's College London) | **_Our friends, the machines?_** | Lars / Sinem |
 | 09:50 | _Spotlight talks_ | Contributed papers / Poster Teaser Session | Mo / Zhengxin |
 | 10:30 | _Coffee break & Poster session_ | Baris / Hugo |
-| 11:15 | TBC | **_TBC_** | Baris / Hugo  |
+| 11:15 | [**Joanna Al-Qaddoumi**](https://pure.york.ac.uk/portal/en/organisations/law) (University of York) | **_Trust ex machina: ona multi-level approach to 'meaningful' artificial intelligence governance_** | Baris / Hugo  |
 | 11:45 | Panel discussion 1: Agish George (Dyson), Joanna Al-Qaddoumi (University of York), Kate Devlin (King's College London) | **_Theme: Co-Creation of TAS_** | Lars / Sinem |
 | 12:30 | _Lunch Break_ |  |
 | 14:00 | Organisers | Survey results / Key Questions for Focus groups | Ayse / Sinem |
