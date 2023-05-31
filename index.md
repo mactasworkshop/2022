@@ -169,9 +169,24 @@ Lina Marsso | University of Toronto |
 
 
 
+***
+
+<a id="special" />
+# Special Issue
+
+Call for our special issue can be accessed using [this link](https://www.sciencedirect.com/journal/journal-of-responsible-technology/about/call-for-papers#multidisciplinary-approaches-for-trustworthy-autonomous-systems).
 
 
+***
 
+<a id="survey" />
+# Emerging Challenges Survey: Trustworthy Autonomous Systems 
+
+This online survey aims to collect attitudes and perspectives toward Trustworthy Autonomous Systems (TAS) from a multidisciplinary lens. The survey is aimed to complement this workshop. The results of the survey will complement focus group discussions to form a  multidisciplinary taxonomy on various aspects and the emerging challenges for TAS, including but not limited to aspects of design, engineering, operation and regulation of TAS. The results will be reviewed by the workshop organisers. By completing this survey, you are helping us understand and support the specific needs of this research community.
+
+No personal or identifying data is collected as part of this survey. We process the data you process on the legal basis that our research is in the public interest, we have legitimate interests and / or that you consent to data processing in freely and voluntarily participating in our research activities. The survey can be accessed using the link below:
+
+[https://forms.office.com/e/zSJzdnRarf](https://forms.office.com/e/zSJzdnRarf)
 
 
 
